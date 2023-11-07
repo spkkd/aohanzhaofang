@@ -5,7 +5,7 @@
 ### 在线体验
 
 - 小程序（打开微信扫一扫）
-  <img src="https://gitee.com/feiLg/source-vue/raw/master/upload/minPro.png"  width="220px" alt="小程序演示"/>
+  <img src="https://raw.githubusercontent.com/spkkd/aohanzhaofang/master/minPro.png"  width="220px" alt="小程序演示"/>
 
 ### 项目简介
 
