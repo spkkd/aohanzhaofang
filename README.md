@@ -19,6 +19,7 @@
 #### 1. 小程序截图
 
 | <img src="https://raw.githubusercontent.com/spkkd/aohanzhaofang/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20231105153425.png" width="100%" height="700px" /> | <img src="https://raw.githubusercontent.com/spkkd/aohanzhaofang/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20231105153502.png" width="100%" height="700px"  /> |
+ <img src="https://raw.githubusercontent.com/spkkd/aohanzhaofang/master/20231107220248.jpg" width="100%" height="700px"  />
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
