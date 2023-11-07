@@ -12,14 +12,14 @@
    本软件是给内蒙自治区赤峰市某房产公司开发的一套线上房源信息平台,业务上与传统找房的方式不同,本软件简化了找房这件事的流程
    本平台发布功能集成了微信支付模块,即发布房源信息时需要支付一定费用才能发布,目前该平台所有功能已开发完毕,已正式进入业务磨合阶段,客户这里也正在推进将系统与业务深度融合。
    此平台接下来将继续开发,敬请期待...
-   项目后台以及数据管理平台前端代码即将开发,敬请期待....
-   
+   项目后台以及数据管理平台前端代码即将开放,敬请期待....
+
 ### 部分截图
 
 #### 1. 小程序截图
 
-| <img src="https://raw.githubusercontent.com/spkkd/aohanzhaofang/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20231105153425.png" width="100%" height="700px" /> | <img src="https://raw.githubusercontent.com/spkkd/aohanzhaofang/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20231105153502.png" width="100%" height="700px"  /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="https://raw.githubusercontent.com/spkkd/aohanzhaofang/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20231105153425.png" width="100%" height="700px" /> | <img src="https://raw.githubusercontent.com/spkkd/aohanzhaofang/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20231105153502.png" width="100%" height="700px"  /> | <img src="https://raw.githubusercontent.com/spkkd/aohanzhaofang/master/20231107220248.jpg" width="100%" height="700px"  /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
 #### 2. 后台截图
@@ -32,7 +32,6 @@
 1.  作者：李洋
 2.  邮箱：1065876043@qq.com
 3.  微信: 13651213593
-    
 
 ### 关于技术栈
 
@@ -40,8 +39,10 @@
  后端技术栈 SpringBoot、MyBatis、Spring Security、Jwt、Redis、Mysql
 
 ### QQ交流群号
+
    528523381 
-   
+
 ### 结语
+
 如果您对此项目感兴趣,想加入微信群,请加本人微信,本人拉您加入微信群
 如果您想定制化也可以加入微信
