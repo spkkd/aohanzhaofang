@@ -9,8 +9,11 @@
 
 ### 项目简介
 
-    内蒙古自治区敖汉旗找房微信小程序
-
+   本软件是给内蒙自治区赤峰市某房产公司开发的一套线上房源信息平台,业务上与传统找房的方式不同,本软件简化了找房这件事的流程
+   本平台发布功能集成了微信支付模块,即发布房源信息时需要支付一定费用才能发布,目前该平台所有功能已开发完毕,已正式进入业务磨合阶段,客户这里也正在推进将系统与业务深度融合。
+   此平台接下来将继续开发,敬请期待...
+   项目后台以及数据管理平台前端代码即将开发,敬请期待....
+   
 ### 部分截图
 
 #### 1. 小程序截图
@@ -19,26 +22,25 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
-
 #### 2. 后台截图
 
-![输入图片说明](https://gitee.com/feiLg/source-vue/raw/master/upload/202311052.png)
-![输入图片说明](https://gitee.com/feiLg/source-vue/raw/master/upload/202311053.png)
+![输入图片说明](https://raw.githubusercontent.com/spkkd/aohanzhaofang/master/202311052.png)
+![输入图片说明](https://raw.githubusercontent.com/spkkd/aohanzhaofang/master/202311053.png)
 
 ### 作者信息
 
 1.  作者：李洋
 2.  邮箱：1065876043@qq.com
 3.  微信: 13651213593
+    定制化请联系作者本人详谈
 
 ### 关于技术栈
 
-> * 前端技术栈 Uniapp、ES6、vue、vuex、vue-router、vue-cli、axios、element-ui
-> * 后端技术栈 SpringBoot、MyBatis、Spring Security、Jwt、Redis、Mysql
+ 前端技术栈 Uniapp、ES6、vue、vuex、vue-router、vue-cli、axios、element-ui
+ 后端技术栈 SpringBoot、MyBatis、Spring Security、Jwt、Redis、Mysql
 
 ### QQ交流群号
-
-   528523381
-    
+   528523381 
+   
 ### 结语
-如果想加入微信群请加作者本人微信,欢迎一起探讨
+如果您对此项目感兴趣,想加入微信群,请加本人微信,本人拉您加入微信群
